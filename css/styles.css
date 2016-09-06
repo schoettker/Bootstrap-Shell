@@ -5,7 +5,8 @@
   margin-bottom: 0;
 }
 .item img {
-  max-height: 25vw;
+  max-height: 45vh;
+  min-height: 200px;
   margin: 0 auto;
   width: 100%;
 }
